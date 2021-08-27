@@ -1,11 +1,7 @@
 using namespace std;
-
 #include <iostream>
-#include <fstream>
-#include <cstdlib>
-
 
 int main(){
-    cout << "yo whats good" << endl;
+    cout << "Fight On!" << endl;
     return 0;
 }
